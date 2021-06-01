@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "907919336917",
+    "project_id": "didongprj",
+    "storage_bucket": "didongprj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907919336917:android:90174c2c1cbf8f7e05c95c",
+        "android_client_info": {
+          "package_name": "com.example.laptrinhandroid_kiemtrathuongky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907919336917-bq2oodtr4clu6lgcpr7stkt7rnu2v4eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl4YGoDLmo2s-AGg1SbiSu12JRmKDSvpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907919336917-bq2oodtr4clu6lgcpr7stkt7rnu2v4eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907919336917:android:cb249353d4484ade05c95c",
+        "android_client_info": {
+          "package_name": "com.example.laptrinhandroid_test_th"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907919336917-bq2oodtr4clu6lgcpr7stkt7rnu2v4eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl4YGoDLmo2s-AGg1SbiSu12JRmKDSvpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907919336917-bq2oodtr4clu6lgcpr7stkt7rnu2v4eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

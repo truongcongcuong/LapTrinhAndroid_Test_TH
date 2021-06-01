@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LapTrinhAndroid_Test_TH</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="button_registry_stroke"><u>Registry</u></string>
+    <string name="button_login_stroke"><u>Login</u></string>
+    <string name="button_logout_stroke"><u>Log out</u></string>
+</resources>
